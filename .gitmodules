@@ -1,11 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/rkrug/universe
-	shallow = true
 	branch = HEAD
 [submodule "plantuml"]
 	path = plantuml
 	url = https://github.com/rkrug/plantuml
-	shallow = true
 	branch = master
-	registered = true
