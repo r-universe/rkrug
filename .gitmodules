@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rkrug/universe
+	url = https://github.com/rkrug/rkrug.r-universe.dev
 	branch = HEAD
 [submodule "plantuml"]
 	path = plantuml
