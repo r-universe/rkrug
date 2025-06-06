@@ -2,8 +2,8 @@
 	path = .registry
 	url = https://github.com/rkrug/rkrug.r-universe.dev
 	branch = HEAD
-[submodule "openalexPro"]
-	path = openalexPro
+[submodule "openalexPro2"]
+	path = openalexPro2
 	url = https://github.com/rkrug/openalexPro
 	branch = openalexPro_2
 [submodule "plantuml"]
