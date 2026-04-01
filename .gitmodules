@@ -6,6 +6,10 @@
 	path = openalexPro
 	url = https://github.com/rkrug/openalexPro
 	branch = main
+[submodule "openalexVectorComp"]
+	path = openalexVectorComp
+	url = https://github.com/rkrug/openalexVectorComp
+	branch = main
 [submodule "plantuml"]
 	path = plantuml
 	url = https://github.com/rkrug/plantuml
