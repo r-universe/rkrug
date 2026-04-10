@@ -2,8 +2,8 @@
 	path = .registry
 	url = https://github.com/rkrug/rkrug.r-universe.dev
 	branch = HEAD
-[submodule "kagiProp"]
-	path = kagiProp
+[submodule "kagiPro"]
+	path = kagiPro
 	url = https://github.com/rkrug/kagiPro
 	branch = main
 [submodule "openalexPro"]
