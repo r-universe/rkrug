@@ -10,6 +10,10 @@
 	path = openalexPro
 	url = https://github.com/rkrug/openalexPro
 	branch = main
+[submodule "openalexSnowball"]
+	path = openalexSnowball
+	url = https://github.com/rkrug/openalexSnowball
+	branch = main
 [submodule "openalexVectorComp"]
 	path = openalexVectorComp
 	url = https://github.com/rkrug/openalexVectorComp
